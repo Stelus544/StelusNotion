@@ -1,0 +1,9 @@
+.tasks .card {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.tasks .list-item {
+  flex-direction: column;
+  align-items: flex-start;
+}

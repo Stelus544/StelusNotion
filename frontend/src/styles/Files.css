@@ -1,0 +1,14 @@
+.files .card {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.files a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.files a:hover {
+  text-decoration: underline;
+}

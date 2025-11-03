@@ -1,0 +1,9 @@
+.notes .card {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.notes .list-item {
+  flex-direction: column;
+  align-items: flex-start;
+}
